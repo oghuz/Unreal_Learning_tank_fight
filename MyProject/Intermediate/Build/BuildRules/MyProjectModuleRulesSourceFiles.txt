@@ -1,0 +1,3 @@
+/Users/osmanjan/work/UnReal/tank_fight/Unreal_Learning_tank_fight/MyProject/Source/MyProject/MyProject.Build.cs
+/Users/osmanjan/work/UnReal/tank_fight/Unreal_Learning_tank_fight/MyProject/Source/MyProject.Target.cs
+/Users/osmanjan/work/UnReal/tank_fight/Unreal_Learning_tank_fight/MyProject/Source/MyProjectEditor.Target.cs
